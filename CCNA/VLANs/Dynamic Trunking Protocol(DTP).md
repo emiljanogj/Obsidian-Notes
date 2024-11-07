@@ -1,0 +1,4 @@
+- DTP enables 2 connected Switches to automatically negotiate a trunk connection in one of these case:
+	- one switch is set to `switchport mode dynamic auto` and the other is set to `switchport mode dynamic {trunk|desirable}`
+	- one switch is set to `switchport mode dynamic desirable` and the other switch is set to `switchport mode dynamic {auto|trunk|desirable}`
+	- if both switches are set to `switchport nonnegotiate`, then DTP is disabled

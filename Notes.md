@@ -1,0 +1,2 @@
+- Try to be more clear in communication and when asking for help
+- Important to develop teamwork

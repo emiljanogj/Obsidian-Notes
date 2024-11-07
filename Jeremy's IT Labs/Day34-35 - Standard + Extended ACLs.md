@@ -1,0 +1,1 @@
+*Note*: A major advantage of the named ACLs over the numbered ACLs is the ability to delete a single ACE. In case of a numbered ACL we have to delete the whole ACL

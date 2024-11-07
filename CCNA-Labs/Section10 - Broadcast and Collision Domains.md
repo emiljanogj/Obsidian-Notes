@@ -1,0 +1,2 @@
+- **Hubs** - single collision/broadcast domains
+- **Switch** - 1 collision domain per interface/single broadcast domain

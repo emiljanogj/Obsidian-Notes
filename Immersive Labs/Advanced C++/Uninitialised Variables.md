@@ -1,0 +1,1 @@
+- **Real-world Example**: https://nvd.nist.gov/vuln/detail/CVE-2020-11104

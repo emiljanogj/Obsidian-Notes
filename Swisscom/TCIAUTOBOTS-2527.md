@@ -1,0 +1,8 @@
+- Regions to migrate:
+	- CEEZBL040
+	- CEEZBL043
+- SDI zones
+	- HW-ZBL03B/* hostgroups
+- CCD
+	- CEEZBL040/CCD/* hostgroups
+- *Note*: Take a look at the openstack clusters in ZBL040 to check if they are in CAPACITY hostgroup in the new zabbix also
